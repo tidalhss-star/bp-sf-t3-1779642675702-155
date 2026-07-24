@@ -1,8 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs><linearGradient id="bgsf-t" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#0d47a1"/><stop offset="100%" stop-color="#1b5e20"/>
-  </linearGradient></defs>
-  <rect width="32" height="32" rx="6" fill="url(#bgsf-t)"/>
-  <polygon points="16,2 27,8 27,22 16,28 5,22 5,8" fill="rgba(13,71,161,0.9)" stroke="rgba(27,94,32,0.6)" stroke-width="2"/>
-  <text x="16" y="21" text-anchor="middle" fill="#fff" font-size="8" font-weight="700" font-family="system-ui">SF</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>백링크 대행 사이트</title>
+  <rect width="64" height="64" rx="10" fill="hsl(104 42% 34%)"/>
+  <g transform="rotate(0 32 32)"><circle cx="25" cy="32" r="13" fill="none" stroke="hsl(104 24% 96%)" stroke-width="7"/><circle cx="39" cy="32" r="13" fill="none" stroke="hsl(248 68% 67%)" stroke-width="7"/></g>
 </svg>
